@@ -1,0 +1,7 @@
+192.168.10.0/25
+subnet=2^1=2
+no host/subnet=2^7=128
+valid subnet=256-128=128 o and 128
+broadcast address for each subnet--127 and 255
+valid host--1 126(subnet 0)
+            129-254(subnet 128)
